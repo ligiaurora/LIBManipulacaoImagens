@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.aurora.dimensoes"},{"l":"com.aurora.facade"},{"l":"com.aurora.histograma"},{"l":"com.aurora.imagem"},{"l":"com.aurora.interpolacao"},{"l":"com.aurora.util"}];updateSearchResults();
